@@ -1,0 +1,15 @@
+E:\ProjectsCs\cs7_practice\cs7_practice\bin\Debug\net10.0\cs7_practice.exe
+E:\ProjectsCs\cs7_practice\cs7_practice\bin\Debug\net10.0\cs7_practice.deps.json
+E:\ProjectsCs\cs7_practice\cs7_practice\bin\Debug\net10.0\cs7_practice.runtimeconfig.json
+E:\ProjectsCs\cs7_practice\cs7_practice\bin\Debug\net10.0\cs7_practice.dll
+E:\ProjectsCs\cs7_practice\cs7_practice\bin\Debug\net10.0\cs7_practice.pdb
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.AssemblyInfoInputs.cache
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.AssemblyInfo.cs
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.csproj.CoreCompileInputs.cache
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.dll
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\refint\cs7_practice.dll
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.pdb
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_practice.genruntimeconfig.cache
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\ref\cs7_practice.dll
+E:\ProjectsCs\cs7_practice\cs7_practice\obj\Debug\net10.0\cs7_prac.A2CECF6E.Up2Date
